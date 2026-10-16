@@ -48,4 +48,4 @@ kelu124_echomods;dbritto3;ksaravan;RecentThemes;Documentation updates:Other;Docu
 open-sdr_openwifi;dbritto3;ksaravan;RecentThemes;Documentation updates:Feature development;Documentation updates:Feature development;Yes;New publication changes and build updates showed throught the latest commits;;;;
 r-quantities_units;dbritto3;ksaravan;RecentThemes;Bug fixes:Other;Bug fixes:Dependency updates;No;The commits show some version bump ups too;;;;
 stan-dev_loo;dbritto3;ksaravan;RecentThemes;Bug fixes:Documentation updates;Bug fixes:Documentation updates;Yes;Commits show the bug fixes primarily through pull requests merging;;;;
-typelevel_frameless;dbritto3;ksaravan;RecentThemes;Dependency updates:Automated bot contributions;Bug fixes;No;The latest commits show repeated version changes and updates in unit tests;;;;
+typelevel_frameless;dbritto3;ksaravan;RecentThemes;Dependency updates:Automated bot contributions;Dependency updates:Bug fixes;No;The latest commits show repeated version changes and updates in unit tests;;;;
